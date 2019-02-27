@@ -1,0 +1,60 @@
+body {
+  background-color: lightpink;
+color: black;
+font-family:helvetica;
+border: solid 2px;
+padding: 20px;
+
+}
+
+img {
+  background-color: black;
+  margin: 20px;
+  padding: 5px;
+
+}
+
+img {
+  height: 40vh
+
+}
+
+img {
+    width: 25vw
+}
+
+.div1 {
+  color: white;
+
+}
+
+#paragraph1 {
+  color: black;
+
+}
+  #pic1
+  {
+    width: 25vw;
+  height: 40vh;
+  margin: 20px;
+  padding: 5px;
+  }
+
+
+  #pic2
+  {
+    width: 30vw;
+  height: 40vh;
+  background-color: black;
+  margin: 20px;
+  padding: 5px;
+  }
+
+  #pic3
+  {
+    width: 50vw;
+  height: 40vh;
+  background-color: black;
+  margin: 20px;
+  padding: 5px;
+  }
